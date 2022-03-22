@@ -1,0 +1,8 @@
+C:\Users\julia\source\repos\uni\unitTesting\.vs\unitTesting\lut\0\b\UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\julia\source\repos\uni\unitTesting\.vs\unitTesting\lut\0\b\UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\julia\source\repos\uni\unitTesting\.vs\unitTesting\lut\0\b\UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\julia\source\repos\uni\unitTesting\.vs\unitTesting\lut\0\b\UnitTests\bin\Debug\UnitTests.dll
+C:\Users\julia\source\repos\uni\unitTesting\.vs\unitTesting\lut\0\i\UnitTests\Debug\UnitTests.csprojAssemblyReference.cache
+C:\Users\julia\source\repos\uni\unitTesting\.vs\unitTesting\lut\0\i\UnitTests\Debug\UnitTests.csproj.CoreCompileInputs.cache
+C:\Users\julia\source\repos\uni\unitTesting\.vs\unitTesting\lut\0\i\UnitTests\Debug\UnitTests.csproj.CopyComplete
+C:\Users\julia\source\repos\uni\unitTesting\.vs\unitTesting\lut\0\i\UnitTests\Debug\UnitTests.dll

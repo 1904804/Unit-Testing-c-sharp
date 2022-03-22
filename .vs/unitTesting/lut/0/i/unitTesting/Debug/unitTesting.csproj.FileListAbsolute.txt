@@ -1,0 +1,5 @@
+C:\Users\julia\source\repos\uni\unitTesting\.vs\unitTesting\lut\0\b\unitTesting\bin\Debug\unitTesting.exe.config
+C:\Users\julia\source\repos\uni\unitTesting\.vs\unitTesting\lut\0\b\unitTesting\bin\Debug\unitTesting.exe
+C:\Users\julia\source\repos\uni\unitTesting\.vs\unitTesting\lut\0\i\unitTesting\Debug\unitTesting.csproj.CoreCompileInputs.cache
+C:\Users\julia\source\repos\uni\unitTesting\.vs\unitTesting\lut\0\i\unitTesting\Debug\unitTesting.csproj.CopyComplete
+C:\Users\julia\source\repos\uni\unitTesting\.vs\unitTesting\lut\0\i\unitTesting\Debug\unitTesting.exe
